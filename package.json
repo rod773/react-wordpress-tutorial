@@ -1,6 +1,5 @@
 {
   "name": "react-wordpress-tutorial",
-  "homepage": "wp-content/reactpress/react-wordpress-tutorial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
